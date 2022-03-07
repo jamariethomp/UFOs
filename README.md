@@ -12,7 +12,7 @@ Initially, the page was built so that only a date filter could be utilized; howe
 
 Additional filters can be applied to narrow one's search as needed, as shown below:
 
-![Screenshot 2022-03-06 213006](https://user-images.githubusercontent.com/94264643/156968534-72811384-83f7-46ef-8e78-5386573c6d07.png)
+![Screenshot 2022-03-06 213006](https://user-images.githubusercontent.com/94264643/156969441-3b25b932-3dd0-4d8e-ac0f-650b304144fd.png)
 
 End users have the ability to start a seach over, and add and remove filter values as they see fit.
 
